@@ -2,3 +2,5 @@
  Primeiro repositório - Curso Git e GitHub
 
  Aprendendo com o Guanabara.
+ 
+ Linha adiciona diretamente no github.
